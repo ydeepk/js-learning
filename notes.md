@@ -9,6 +9,7 @@
 - [Lean Javascript for beginners] (https://www.freecodecamp.org/news/learn-javascript-for-beginners/)
 - [How to Use Classes in JS] (https://www.freecodecamp.org/news/how-to-use-classes-in-javascript-handbook/)
 - [How to write clean code - Tips and Practices] (https://www.freecodecamp.org/news/how-to-write-clean-code/#heading-what-does-it-mean-to-write-clean-code-and-why-should-i-care)
+- [Bash scripting] (https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 - [Java Handbook] (https://www.freecodecamp.org/news/the-java-handbook/)
 
 
