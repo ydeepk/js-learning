@@ -11,7 +11,9 @@
 - [How to write clean code - Tips and Practices] (https://www.freecodecamp.org/news/how-to-write-clean-code/#heading-what-does-it-mean-to-write-clean-code-and-why-should-i-care)
 - [Bash scripting] (https://www.freecodecamp.org/news/bash-scripting-tutorial-linux-shell-script-and-command-line-for-beginners/)
 - [Java Handbook] (https://www.freecodecamp.org/news/the-java-handbook/)
-
+- [Learn Typescript] (https://www.freecodecamp.org/news/learn-typescript-with-react-handbook/)
+- [Learn Typescript for beginners] (https://www.freecodecamp.org/news/typescript-for-beginners-guide/)
+- [Learn Typescript in 1 hour] (https://www.freecodecamp.org/news/learn-typescript-in-1-hour/)
 
 ## 💻 Practice & Exercises
 - [FreeCodeCamp JavaScript Algorithms](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/) – Excellent step-by-step practice.
